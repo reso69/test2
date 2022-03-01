@@ -1,0 +1,5 @@
+ligne de texte view <div class="mb-3">
+  <label for="" class="form-label"></label>
+  <input type="file" class="form-control" name="" id="" placeholder="" aria-describedby="fileHelpId">
+  <small id="fileHelpId" class="form-text text-muted">Help text</small>
+</div>
