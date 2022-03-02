@@ -1,4 +1,4 @@
-[](../notes.txt)
+
 
 ### titre de la doc 2 
 
