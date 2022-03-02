@@ -2,9 +2,19 @@
 [](../notes.txt)> [!WARNING]
 
 
+author: 
+ms.date : 27/06/2022
+
+
+
+
 1. > Dangerous certain consequences of an actio``
-1. kjnvldsfjndlskf> [!CAUTION]
+1. kjnvldsfjndlskf> 
+
+>[!CAUTION]
 > Negative potential consequences of an actionjgsldfnskdfb
+
+
 1. sdflk,sdmf,smdf3
 
 - dfnlknsdfljksdflnbsdf
@@ -42,3 +52,11 @@ paragraphe 1 :  lorem*30
 :::image type="content" source="../Access.png" alt-text="getting started":::
 
 <img src="../access.png" alt="getting started" style="width: 30px; height: 30px" />
+
+
+> [!IMPORTANT]
+> Essential information required for user success
+
+
+> [!WARNING]
+> Dangerous certain consequences of an action
